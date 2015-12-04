@@ -1,5 +1,7 @@
 # AndroidStudio_Turorials
 
 ##Contents:
-###1. Basic Rules
-###2. Hello World.
+
+###1. Basic
+
+####(1). 名詞
