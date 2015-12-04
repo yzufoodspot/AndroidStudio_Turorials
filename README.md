@@ -1,5 +1,3 @@
-# AndroidStudio_Turorials
-
 ##Contents:
 
 ### Basic
