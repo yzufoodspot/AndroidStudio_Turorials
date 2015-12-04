@@ -4,8 +4,8 @@
 
 ### Basic
 
-* 1. 名詞
+- 1. 名詞
 
-- **AVD**(Android Virtual Device): Android 模擬器 (建議直接使用手機測試app)
+  - **AVD**(Android Virtual Device): Android 模擬器 (建議直接使用手機測試app)
 
-- **SDK**(Software Development Kit): 軟體開發套件，
+  - **SDK**(Software Development Kit): 軟體開發套件，
