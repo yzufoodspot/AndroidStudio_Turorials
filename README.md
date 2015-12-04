@@ -6,4 +6,4 @@
 
   - **AVD**(Android Virtual Device): Android 模擬器 (建議直接使用手機測試app)
 
-  - **SDK**(Software Development Kit): 軟體開發套件，
+  - **SDK**(Software Development Kit): 軟體開發套件 ![Image of SDK Pos](http://i.imgur.com/QucRhNl.png)
