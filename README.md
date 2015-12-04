@@ -2,9 +2,9 @@
 
 ##Contents:
 
-* Basic
+### Basic
 
-###1. 名詞
+* 1. 名詞
 
 **AVD**(Android Virtual Device): Android 模擬器 (建議直接使用手機測試app)
 
